@@ -22,7 +22,7 @@ git clone https://github.com/your-username/cpp-learning.git
 ## Topics Covered
 
 So far, I have covered the following topics in my learning journey:
--- Arrays
+- Arrays
 
 
 
