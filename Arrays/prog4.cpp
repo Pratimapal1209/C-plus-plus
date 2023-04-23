@@ -1,6 +1,8 @@
 //reverse an array
 
 
+//method 1
+
 #include<iostream>
 using namespace std;
 
