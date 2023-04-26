@@ -30,5 +30,6 @@ So far, I have covered the following topics in my learning journey:
 ## Projects
 
 The following are some of the projects that I have completed as part of my learning journey:
+//this repo is still developing
 
 
