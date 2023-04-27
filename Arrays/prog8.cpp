@@ -1,8 +1,4 @@
-class Solution{
-    public:
-    // arr[]: input array
-    // n: size of the array
-    // x: element for which you need to return the count
+//print the element of the array that is greater than x
     int greaterThanX(int arr[],int n,int x)
     {
         // your code here
